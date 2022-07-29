@@ -1,0 +1,50 @@
+INFO 2022-07-28 16:25:42,486 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:26:30,752 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 16:26:31,526 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:26:41,610 urls 23 info
+INFO 2022-07-28 16:26:41,612 basehttp 187 "GET / HTTP/1.1" 200 4
+WARNING 2022-07-28 16:26:41,703 log 241 Not Found: /favicon.ico
+WARNING 2022-07-28 16:26:41,704 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2208
+INFO 2022-07-28 16:34:16,984 urls 23 info
+INFO 2022-07-28 16:34:16,986 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-07-28 16:36:28,313 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 16:36:29,150 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:43:35,073 autoreload 266 D:\new_blog\blog\blog\urls.py changed, reloading.
+INFO 2022-07-28 16:43:36,002 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:45:26,268 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 16:45:27,037 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:45:41,926 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 16:45:42,772 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:49:39,611 autoreload 266 D:\new_blog\blog\blog\urls.py changed, reloading.
+INFO 2022-07-28 16:49:40,542 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:50:11,014 autoreload 266 D:\new_blog\blog\blog\urls.py changed, reloading.
+INFO 2022-07-28 16:50:11,813 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:50:31,035 autoreload 266 D:\new_blog\blog\blog\urls.py changed, reloading.
+INFO 2022-07-28 16:50:31,911 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:50:59,641 autoreload 266 D:\new_blog\blog\blog\urls.py changed, reloading.
+INFO 2022-07-28 16:51:00,430 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:51:29,923 autoreload 266 D:\new_blog\blog\users\urls.py changed, reloading.
+INFO 2022-07-28 16:51:30,710 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:52:26,324 autoreload 266 D:\new_blog\blog\users\urls.py changed, reloading.
+INFO 2022-07-28 16:52:27,085 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 16:52:46,865 autoreload 266 D:\new_blog\blog\users\urls.py changed, reloading.
+INFO 2022-07-28 17:04:26,444 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:04:44,069 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 17:04:44,859 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:04:58,433 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-28 17:05:52,242 autoreload 266 D:\new_blog\blog\users\models.py changed, reloading.
+INFO 2022-07-28 17:05:53,031 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:10:32,519 autoreload 266 D:\new_blog\blog\users\views.py changed, reloading.
+INFO 2022-07-28 17:10:33,374 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:11:16,271 autoreload 266 D:\new_blog\blog\users\urls.py changed, reloading.
+INFO 2022-07-28 17:11:17,089 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:28:10,143 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 17:28:10,972 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:31:10,891 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 17:31:11,718 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:31:35,609 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 17:31:36,444 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:32:24,017 autoreload 266 D:\new_blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-28 17:32:24,836 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:37:19,777 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-28 17:39:10,890 autoreload 677 Watching for file changes with StatReloader
