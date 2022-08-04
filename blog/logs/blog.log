@@ -1180,3 +1180,10 @@ INFO 2022-08-04 18:42:15,185 autoreload 266 C:\Users\86159\Desktop\blog\blog\use
 INFO 2022-08-04 18:42:15,624 autoreload 677 Watching for file changes with StatReloader
 INFO 2022-08-04 18:42:42,265 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
 INFO 2022-08-04 18:42:42,723 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 19:48:10,095 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 19:48:11,491 urls 24 info
+INFO 2022-08-04 19:48:11,491 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-04 19:48:21,074 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+INFO 2022-08-04 19:48:21,143 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2472
+INFO 2022-08-04 19:48:35,478 basehttp 187 "POST /user/login/ HTTP/1.1" 200 15
+INFO 2022-08-04 20:07:52,359 autoreload 677 Watching for file changes with StatReloader
