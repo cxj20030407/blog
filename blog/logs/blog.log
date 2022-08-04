@@ -48,3 +48,1111 @@ INFO 2022-07-28 17:32:24,017 autoreload 266 D:\new_blog\blog\blog\settings.py ch
 INFO 2022-07-28 17:32:24,836 autoreload 677 Watching for file changes with StatReloader
 INFO 2022-07-28 17:37:19,777 autoreload 677 Watching for file changes with StatReloader
 INFO 2022-07-28 17:39:10,890 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 09:59:36,648 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:01:42,103 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:02:14,937 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:05:39,825 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:37:18,312 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:37:47,762 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:39:09,281 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:39:38,638 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:40:42,586 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:42:33,557 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:43:35,860 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:47:39,399 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:49:18,741 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:50:37,553 urls 23 info
+INFO 2022-07-30 10:50:37,554 basehttp 187 "GET / HTTP/1.1" 200 4
+WARNING 2022-07-30 10:50:37,907 log 241 Not Found: /favicon.ico
+WARNING 2022-07-30 10:50:37,908 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2556
+INFO 2022-07-30 10:50:56,468 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:51:09,860 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:51:10,210 urls 23 info
+INFO 2022-07-30 10:51:10,211 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-07-30 10:54:02,390 urls 23 info
+INFO 2022-07-30 10:54:02,391 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-07-30 10:54:02,392 urls 23 info
+INFO 2022-07-30 10:54:02,393 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-07-30 10:54:08,047 basehttp 187 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-07-30 10:54:08,077 basehttp 187 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2212
+INFO 2022-07-30 10:54:08,223 basehttp 187 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO 2022-07-30 10:54:08,225 basehttp 187 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2022-07-30 10:54:08,226 basehttp 187 "GET /static/admin/css/login.css HTTP/1.1" 200 954
+INFO 2022-07-30 10:54:08,227 basehttp 187 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+INFO 2022-07-30 10:54:08,233 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-07-30 10:54:08,238 basehttp 187 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+INFO 2022-07-30 10:54:08,273 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-07-30 10:54:08,274 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-07-30 10:55:01,731 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2022-07-30 10:55:01,737 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:44,038 autoreload 266 C:\Users\86159\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-30 10:58:44,140 autoreload 266 C:\Users\86159\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-30 10:58:44,450 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:58:44,541 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-30 10:58:47,386 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:47,812 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:48,173 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:48,678 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:49,117 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:49,901 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:50,438 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:51,167 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-30 10:58:54,998 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-31 08:52:30,067 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-31 08:52:30,447 urls 23 info
+INFO 2022-07-31 08:52:30,452 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-07-31 08:52:39,259 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2022-07-31 08:52:39,270 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-31 18:16:48,931 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-31 18:17:17,586 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-31 18:17:17,941 urls 23 info
+INFO 2022-07-31 18:17:17,943 basehttp 187 "GET / HTTP/1.1" 200 4
+WARNING 2022-07-31 18:17:18,324 log 241 Not Found: /favicon.ico
+WARNING 2022-07-31 18:17:18,325 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2556
+INFO 2022-07-31 18:17:26,648 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-31 21:16:49,512 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-31 21:17:08,060 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-07-31 21:17:08,547 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-02 22:36:36,741 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-02 22:36:37,099 urls 23 info
+INFO 2022-08-02 22:36:37,101 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-02 22:36:45,801 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2022-08-02 22:36:45,807 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+WARNING 2022-08-02 22:36:58,184 log 241 Not Found: /login/
+WARNING 2022-08-02 22:36:58,185 basehttp 187 "GET /login/ HTTP/1.1" 404 2541
+INFO 2022-08-03 07:08:06,918 autoreload 266 C:\Users\86159\Desktop\blog\blog\blog\urls.py changed, reloading.
+INFO 2022-08-03 07:08:07,426 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 10:45:59,285 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 10:46:13,771 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 10:46:48,815 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 10:47:02,635 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 10:47:03,018 urls 24 info
+INFO 2022-08-03 10:47:03,019 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 10:47:08,781 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+WARNING 2022-08-03 10:47:26,812 log 241 Bad Request: /register/
+WARNING 2022-08-03 10:47:26,812 basehttp 187 "POST /register/ HTTP/1.1" 400 30
+WARNING 2022-08-03 10:47:46,833 log 241 Bad Request: /register/
+WARNING 2022-08-03 10:47:46,834 basehttp 187 "POST /register/ HTTP/1.1" 400 30
+WARNING 2022-08-03 10:47:50,807 log 241 Bad Request: /register/
+WARNING 2022-08-03 10:47:50,807 basehttp 187 "POST /register/ HTTP/1.1" 400 30
+INFO 2022-08-03 10:49:08,624 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 10:49:09,176 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 11:04:41,712 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 11:04:42,234 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 11:25:06,808 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 11:25:07,390 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:21:38,717 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 12:21:39,097 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:26:51,639 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 12:26:52,090 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:26:53,002 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:26:53,516 urls 24 info
+INFO 2022-08-03 12:26:53,517 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 12:27:04,328 basehttp 187 "GET /user/login HTTP/1.1" 301 0
+INFO 2022-08-03 12:27:04,340 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:27:04,508 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:27:04,510 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:39,836 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:39,906 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:39,907 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:40,181 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\utils\code.py changed, reloading.
+INFO 2022-08-03 12:30:40,567 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:30:40,678 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\utils\code.py changed, reloading.
+INFO 2022-08-03 12:30:40,766 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:40,877 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+INFO 2022-08-03 12:30:40,880 basehttp 80 - Broken pipe from ('127.0.0.1', 51191)
+
+INFO 2022-08-03 12:30:40,988 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:41,129 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:41,132 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:41,275 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:30:41,636 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:41,708 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:41,709 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:41,833 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:41,915 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:41,916 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:42,045 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:42,144 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:42,145 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:42,415 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:42,499 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:42,500 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:42,986 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:43,061 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:43,061 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:43,217 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:43,275 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:43,276 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:43,530 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:43,591 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:43,592 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:43,744 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:43,817 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:43,818 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:30:44,098 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:30:44,155 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:30:44,157 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:31:13,997 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:31:14,269 urls 24 info
+INFO 2022-08-03 12:31:14,271 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 12:31:32,176 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:31:32,264 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:31:32,266 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:31:32,602 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:31:32,666 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:31:32,668 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:31:32,994 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:31:33,053 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:31:33,055 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:31:33,266 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:31:33,341 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 132, in image_code
+    img, code_string = check_code()
+  File "C:\Users\86159\Desktop\blog\blog\users\utils\code.py", line 27, in check_code
+    font = ImageFont.truetype(font_file, font_size)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 959, in truetype
+    return freetype(font)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 956, in freetype
+    return FreeTypeFont(font, size, index, encoding, layout_engine)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\ImageFont.py", line 247, in __init__
+    self.font = core.getfont(
+OSError: cannot open resource
+ERROR 2022-08-03 12:31:33,342 basehttp 187 "GET /image/code/ HTTP/1.1" 500 93561
+INFO 2022-08-03 12:33:19,435 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+INFO 2022-08-03 12:33:20,845 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:33:21,587 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:33:22,930 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:33:22,931 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126151
+INFO 2022-08-03 12:34:05,522 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:34:07,635 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:34:07,636 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126150
+INFO 2022-08-03 12:37:33,506 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:37:35,616 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+INFO 2022-08-03 12:37:36,475 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:37:38,632 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:37:38,633 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126151
+ERROR 2022-08-03 12:43:13,626 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:43:13,627 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126336
+INFO 2022-08-03 12:45:03,285 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 12:45:03,686 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 12:45:03,716 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:45:04,293 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:45:13,943 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:45:16,059 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:45:16,061 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126151
+INFO 2022-08-03 12:48:51,271 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 12:48:51,550 urls 24 info
+INFO 2022-08-03 12:48:51,552 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 12:48:55,221 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:48:57,339 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:48:57,343 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126151
+INFO 2022-08-03 12:51:46,111 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 12:51:48,196 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 12:51:48,197 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126151
+INFO 2022-08-03 16:37:07,743 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:37:08,092 urls 24 info
+INFO 2022-08-03 16:37:08,094 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 16:37:18,010 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 16:37:20,165 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 16:37:20,168 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126150
+INFO 2022-08-03 16:47:17,518 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:47:17,851 urls 24 info
+INFO 2022-08-03 16:47:17,852 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 16:47:25,161 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 16:47:27,310 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 16:47:27,314 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126150
+WARNING 2022-08-03 16:48:23,860 log 241 Not Found: /login/
+WARNING 2022-08-03 16:48:23,860 basehttp 187 "GET /login/ HTTP/1.1" 404 3018
+INFO 2022-08-03 16:48:39,633 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-03 16:48:47,811 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 16:48:48,070 urls 24 info
+INFO 2022-08-03 16:48:48,071 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 16:49:00,849 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-03 20:52:26,561 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 20:52:26,614 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-03 20:52:26,921 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 20:52:27,063 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 20:52:27,078 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 20:52:27,414 urls 24 info
+INFO 2022-08-03 20:52:27,416 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 20:52:36,118 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+ERROR 2022-08-03 20:52:38,267 log 241 Internal Server Error: /image/code/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 56, in save
+    return self.create()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\commands\core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 1387, in get_connection
+    connection.connect()
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\redis\connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2022-08-03 20:52:38,271 basehttp 187 "GET /image/code/ HTTP/1.1" 500 126116
+INFO 2022-08-03 20:59:07,006 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-03 20:59:07,232 urls 24 info
+INFO 2022-08-03 20:59:07,233 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-03 20:59:12,201 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+INFO 2022-08-03 20:59:12,277 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2637
+INFO 2022-08-03 20:59:29,219 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2022-08-03 20:59:29,225 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-03 20:59:31,104 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-03 20:59:35,327 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-03 20:59:36,376 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-04 17:15:24,713 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\utils\code.py changed, reloading.
+INFO 2022-08-04 17:15:24,728 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\utils\bootstrap.py changed, reloading.
+INFO 2022-08-04 17:15:25,481 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 17:15:25,591 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 17:15:25,763 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 17:15:26,533 urls 24 info
+INFO 2022-08-04 17:15:26,533 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-04 17:15:37,611 basehttp 187 "GET /user/login HTTP/1.1" 301 0
+INFO 2022-08-04 17:15:37,644 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+INFO 2022-08-04 17:15:37,935 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2197
+INFO 2022-08-04 17:16:27,482 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 17:16:27,795 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2033
+INFO 2022-08-04 17:16:54,597 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 17:16:54,728 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2286
+INFO 2022-08-04 17:16:56,780 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 17:16:56,908 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2499
+INFO 2022-08-04 17:17:08,573 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 17:17:08,784 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2311
+INFO 2022-08-04 17:17:14,576 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 17:17:14,708 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2428
+INFO 2022-08-04 17:17:20,400 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 17:17:20,617 basehttp 187 "GET /image/code/ HTTP/1.1" 200 1978
+INFO 2022-08-04 17:17:24,711 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 17:17:24,910 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2030
+INFO 2022-08-04 17:17:25,357 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 17:17:25,434 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2189
+INFO 2022-08-04 17:17:31,202 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 17:17:31,385 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2191
+INFO 2022-08-04 17:20:14,309 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1374
+INFO 2022-08-04 17:20:14,483 basehttp 187 "GET /image/code/ HTTP/1.1" 200 1928
+INFO 2022-08-04 17:20:27,573 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1383
+INFO 2022-08-04 17:20:27,687 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2350
+INFO 2022-08-04 17:20:29,803 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1374
+INFO 2022-08-04 17:20:29,909 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2861
+INFO 2022-08-04 17:20:30,748 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1374
+INFO 2022-08-04 17:20:30,870 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2570
+INFO 2022-08-04 17:20:31,417 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1374
+INFO 2022-08-04 17:20:31,530 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2105
+INFO 2022-08-04 17:20:38,754 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1383
+INFO 2022-08-04 17:20:38,809 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2353
+INFO 2022-08-04 17:28:21,308 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\models.py changed, reloading.
+INFO 2022-08-04 17:28:21,512 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\models.py changed, reloading.
+INFO 2022-08-04 17:28:21,700 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 17:28:21,904 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 17:59:11,307 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 17:59:44,318 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+INFO 2022-08-04 17:59:44,393 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2271
+INFO 2022-08-04 17:59:58,385 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 17:59:58,431 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2423
+INFO 2022-08-04 18:00:28,101 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 18:00:28,157 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2359
+INFO 2022-08-04 18:05:17,735 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:05:17,735 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:05:17,985 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:05:18,172 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:05:18,328 urls 24 info
+INFO 2022-08-04 18:05:18,328 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-04 18:05:31,691 basehttp 187 "GET /user/login/ HTTP/1.1" 200 1325
+INFO 2022-08-04 18:05:31,755 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2408
+INFO 2022-08-04 18:05:49,922 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1387
+INFO 2022-08-04 18:05:49,971 basehttp 187 "GET /image/code/ HTTP/1.1" 200 1986
+INFO 2022-08-04 18:07:09,065 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 18:07:09,101 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2479
+INFO 2022-08-04 18:07:41,937 basehttp 187 "POST /user/login/ HTTP/1.1" 302 0
+INFO 2022-08-04 18:07:41,943 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-04 18:10:46,518 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:10:46,618 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:10:46,618 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:10:46,844 urls 24 info
+INFO 2022-08-04 18:10:46,845 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-04 18:10:47,307 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:10:47,325 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:11:02,846 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:11:02,856 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:11:03,262 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:11:03,275 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:11:03,416 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:11:03,876 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-08-04 18:11:10,390 log 241 Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 75, in user_login
+    form = LoginForm(data=request.POST)
+NameError: name 'LoginForm' is not defined
+ERROR 2022-08-04 18:11:10,391 basehttp 187 "POST /user/login/ HTTP/1.1" 500 68732
+ERROR 2022-08-04 18:11:19,050 log 241 Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\86159\AppData\Local\Programs\Python\Python310\lib\site-packages\django-4.0.5-py3.10.egg\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\86159\Desktop\blog\blog\users\views.py", line 72, in user_login
+    form = LoginForm()
+NameError: name 'LoginForm' is not defined
+ERROR 2022-08-04 18:11:19,050 basehttp 187 "GET /user/login/ HTTP/1.1" 500 67505
+INFO 2022-08-04 18:12:31,128 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:12:31,311 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:12:31,409 autoreload 266 C:\Users\86159\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-08-04 18:12:31,862 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:12:31,987 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:14:17,853 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:14:18,108 urls 24 info
+INFO 2022-08-04 18:14:18,108 basehttp 187 "GET / HTTP/1.1" 200 4
+INFO 2022-08-04 18:14:29,914 basehttp 187 "POST /user/login/ HTTP/1.1" 200 1378
+INFO 2022-08-04 18:14:29,979 basehttp 187 "GET /image/code/ HTTP/1.1" 200 2132
+INFO 2022-08-04 18:14:42,845 basehttp 187 "POST /user/login/ HTTP/1.1" 302 0
+INFO 2022-08-04 18:14:42,850 basehttp 187 "GET /register/ HTTP/1.1" 200 3760
+INFO 2022-08-04 18:16:20,822 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:16:42,212 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-08-04 18:16:42,527 urls 24 info
+INFO 2022-08-04 18:16:42,527 basehttp 187 "GET / HTTP/1.1" 200 4
