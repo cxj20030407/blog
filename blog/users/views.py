@@ -16,7 +16,7 @@ logger=logging.getLogger('django')
 # 注册视图
 class RegisterView(View):
     def get(self, request):
-        return render(request, 'register.html')
+        return render(request, 'register_rev.html')
     def post(self, request):
         mobile = request.POST.get('mobile')
         password = request.POST.get('password')
@@ -59,10 +59,15 @@ class ImageCodeView(View):
 # ########################### 测试版本 ###############################
 from io import BytesIO
 from users import models
-from users.utils.form import LoginForm, AdminModelForm
+from users.utils.form import LoginForm, AdminModelForm, EditorModelForm
 from users.utils.code import check_code
 from users.utils.form import LoginForm
 from users.utils.code import check_code
+import os
+from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
+from django.conf import settings
+from django.views.decorators.clickjacking import xframe_options_exempt
 
 # 登录视图
 def user_login(request):
@@ -115,10 +120,17 @@ def user_register(request):
     """ 注册 """
     if request.method == "GET":
         form = AdminModelForm()
-        return render(request, 'register_test.html', {'form': form})
+        return render(request, 'register.html', {'form': form})
     form = AdminModelForm(data=request.POST)
     if form.is_valid():
         form.save()
         return redirect('/user/login')
 
-    return render(request, 'register_test.html', {'form': form})
+    return render(request, 'register.html', {'form': form})
+
+def editor(request):
+    form = EditorModelForm()
+    return render(request, 'editor_md_test.html', {'form': form})
+
+
+

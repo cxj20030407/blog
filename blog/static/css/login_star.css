@@ -1,0 +1,138 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.fix-wh {
+    width: 1520px;
+    height: 661px;
+    margin: 0 auto;
+}
+
+.Wel {
+    position: relative;
+    top: 280px;
+    left: 170px;
+    display: block;
+    width: 800px;
+	font-family: "iconfont" !important;
+    font-size: 80px;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.gzs {
+    position: relative;
+    top: 290px;
+    left: 170px;
+    display: block;
+    width: 800px;
+	font-family: "iconfont" !important;
+    font-size: 80px;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.container {
+    /* 毛玻璃效果 */
+    background-color: rgba(255, 255, 255, 0.185);
+    backdrop-filter: blur(50px);
+    /* background-color: #012d38; */
+    width: 400px;
+    height: 450px;
+    /* 阴影 */
+    box-shadow: 0 5px 15px rgba(20, 20, 20, 0.8);
+    /* 相对定位 */
+    position: relative;
+    top: -60px;
+    left: 63%;
+    border-radius: 20px;
+}
+
+.register-text h1 {
+    position: relative;
+    top: 37px;
+    left: 110px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+    /* 大写 */
+    text-transform: uppercase;
+    /* 字间距 */
+    letter-spacing: 3px;
+
+}
+
+input {
+    position: relative;
+    top: 55px;
+    left: 58px;
+
+    background: none;
+    width: 280px;
+    height: 25px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+
+    color: whitesmoke;
+}
+
+input::placeholder {
+    color: whitesmoke;
+}
+
+input:focus {
+    outline: none;
+    border-bottom: 2px solid rgb(162, 162, 162);
+    transition: 0.5s;
+}
+
+.register-text button {
+    position: relative;
+    top: 90px;
+    left: 110px;
+    width: 160px;
+    height: 40px;
+    background: none;
+    border: 2px solid whitesmoke;
+    border-radius: 20px;
+    color: whitesmoke;
+}
+
+.register-text a {
+    position: relative;
+    top: 170px;
+    left: -8px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* 背景 */
+html {
+    height: 100%;
+    background-image: -webkit-radial-gradient(ellipse farthest-corner at center top, #000d4d 0%, #000105 100%);
+    background-image: radial-gradient(ellipse farthest-corner at center top, #000d4d 0%, #000105 100%);
+    cursor: arrow;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    position: fixed;
+    /*设置定位*/
+    top: 0;
+    left: 0;
+    z-index: -1;
+    /*使画布基于最低层*/
+    background: #0e1729;
+    /*画布背景色*/
+}

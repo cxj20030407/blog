@@ -1,16 +1,18 @@
 from django.urls import path
 from users.views import RegisterView, ImageCodeView
-from users.views import user_register, user_login, image_code
+from users import views
 
 urlpatterns = [
     path('register/', RegisterView.as_view(), name='register'),
     path('imagecode/', ImageCodeView.as_view(), name='imagecode'),
 
     #用户注册
-    path('user/register/', user_register),
+    path('user/register/', views.user_register),
     #用户登录
-    path('user/login/', user_login),
+    path('user/login/', views.user_login),
     #验证码
-    path('image/code/', image_code),
+    path('image/code/', views.image_code),
+    #markdown编辑器
+    path('editor/', views.editor),
 
 ]

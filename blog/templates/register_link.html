@@ -1,0 +1,160 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block style %}
+	<style>
+        * {
+            margin: 0;
+            border: 0;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .w {
+            width: 1532px;
+            margin: auto;
+        }
+
+        .c {
+            width: 1136px;
+
+        }
+
+        .header {
+            display: flex;
+            background-color:
+                #32325d;
+            height: 50px;
+
+        }
+
+        .navbar {
+            width: 1530px;
+            height: 37px;
+
+            justify-content: center;
+        }
+
+        .navbar .left a,
+        .navbar .right a {
+            color: #fff;
+            font-weight: 700;
+        }
+
+
+        .navbar .left {
+            width: 110px;
+            height: 37px;
+            color: #fff;
+            font-weight: 700;
+            line-height: 37px;
+            font-size: 12px;
+            float: left;
+            margin-left: 40px;
+        }
+
+        .navbar .right {
+
+            width: 984px;
+            height: 37px;
+            color: #fff;
+            float: right;
+            margin-right: 40px;
+        }
+
+        .navbar ul {
+            padding: 0;
+        }
+
+        .navbar ul li {
+            display: inline-block;
+            width: 70px;
+            line-height: 37px;
+            font-size: 14px;
+            float: left;
+            margin: auto 25px;
+        }
+
+        .navbar ul li a:hover {
+            color: aquamarine;
+        }
+
+        .navbar ul li:first-child {
+            margin-left: 0;
+        }
+
+        .navbar .common {
+            width: 100px;
+        }
+    </style>
+{% endblock %}
+
+{% block css %}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/register_link.css' %}" />
+{% endblock %}
+
+{% block content %}
+    <canvas id="my_canvas"></canvas>
+
+    <div class="fix-wh">
+        <div class="big-text">
+            <h1 class="Wel">欢迎来到</h1>
+            <h1 class="gzs">量化投资工作室</h1>
+        </div>
+
+        <div class="container">
+            <div class="register-text">
+                <h1>Register</h1>
+                <form method="post" novalidate>
+                    {% csrf_token %}
+
+                    {% for field in form %}
+                        <div>
+                            <label>{{ field.label }}</label>
+                            {{ field }}
+                            <span style="color: red;">{{ field.errors.0 }}</span>
+                        </div>
+                    {% endfor %}
+
+                    <button type="submit" class="btn btn-primary">注 册</button>
+                    <a href="#">忘记密码？</a>
+                </form>
+
+{#                <input type="text" placeholder="用户名" class="input-color">#}
+{#                <input type="email" placeholder="邮箱">#}
+{#                <input type="password" placeholder="密码" id="input1" class="input-color">#}
+{#                <input type="password" placeholder="确认密码" id="input2" class="input-color" onblur="check2pwd()">#}
+{#                <button>注册</button>#}
+
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{#{% block js %}#}
+{#    <script>#}
+{#        function check2pwd() {#}
+{#            if (input1.value != input2.value) {#}
+{#                alert("两次输入密码不一致！")#}
+{#                input1.value = "";#}
+{#                input2.value = "";#}
+{#            }#}
+{#        }#}
+{#    </script>#}
+{#{% endblock %}#}
+
+
+{#{% block init %}#}
+{#<!-- 引入粒子插件 -->#}
+{#<script href="{% static 'js/particle.min.js' %}"></script>#}
+{#<script>#}
+{#    // 初始化粒子（画布id）#}
+{#    particle.init('my_canvas');#}
+{#</script>#}
+{#{% endblock %}#}
